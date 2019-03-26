@@ -7,3 +7,4 @@ elif(b == 'C'):
     print('G')
 else:
     print('C')
+    
